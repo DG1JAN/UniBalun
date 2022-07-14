@@ -29,10 +29,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="1.8116734"
-     inkscape:cx="822.72001"
-     inkscape:cy="322.07791"
-     inkscape:window-width="1870"
-     inkscape:window-height="1016"
+     inkscape:cx="698.80145"
+     inkscape:cy="321.80193"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -522,12 +522,15 @@
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="221.99413"
        y="104.13348"
-       id="text4536-2-92"><tspan
+       id="text4536-2-92"
+       inkscape:export-filename="/home/jan/Schreibtisch/UniNalun/UniBalun/variants.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan4534-9-6"
          style="font-size:6.35px;stroke-width:0.264583"
          x="221.99413"
-         y="104.13348">b</tspan></text>
+         y="104.13348">b'</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -539,17 +542,6 @@
          style="font-size:6.35px;stroke-width:0.264583"
          x="242.84547"
          y="104.20689">a</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="252.4906"
-       y="100.66833"
-       id="text4536-7-9"><tspan
-         sodipodi:role="line"
-         id="tspan4534-0-50"
-         style="font-size:6.35px;stroke-width:0.264583"
-         x="252.4906"
-         y="100.66833">b</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect14535-4"
