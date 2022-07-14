@@ -17,8 +17,8 @@ Depending on the winding of the toroid, you can use the PCB to create a 1:1 or 1
 
 As torroid, I'm using "Würth 74270118" but other cores like Amidnon FT82-43 will work as well.
 
-After a request from an OM, I also did a version using a BNC connector. (Amphenol B6252H7 or similar)
-(Be aware, this PCB is unteted yet from my site)
+After a request from an OM, I also did a version using a BNC connector. (Amphenol B6252H7, Telegärtner J01001A0038 or similar)
+(Be aware, this PCB is untested yet from my site)
 
-For German/EU-Based Hams, I can recomend https://aisler.net/ for PCB manufactiring. You can directli upload the Kicad file and order the PCBs.
+For German/EU-Based Hams, I can recommend https://aisler.net/ for PCB manufactiring. You can upload the Kicad file and order the PCBs.
 Please selcet the Surface Finish: "ENIG"  for best results (Perfect Gold / Nickel surface finish with excellent planarity).
