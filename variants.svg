@@ -29,10 +29,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="1.2810465"
-     inkscape:cx="669.76489"
-     inkscape:cy="425.43341"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:cx="669.76491"
+     inkscape:cy="612.38995"
+     inkscape:window-width="1870"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -949,6 +949,6 @@
          style="font-size:4.23333px;line-height:1.15;stroke-width:0.264583"
          x="215.27098"
          y="197.95393"
-         id="tspan3085-2">100 pF &lt;200V</tspan></text>
+         id="tspan3085-2">100 pF Class 1, &gt;200V</tspan></text>
   </g>
 </svg>
