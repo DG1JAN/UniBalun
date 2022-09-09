@@ -13,11 +13,14 @@ Depending on the winding of the toroid, you can use the PCB to create a 1:1 or 1
 
 ![alt text](https://github.com/DG1JAN/UniBalun/blob/main/variants.png)
 
-I recommend using Amidon FT82-43 Cores for 1:49 UnUns. For 1:1 and 1:4 Balun also "Würth 74270118" (or similar sized NiZn) toroids will work.
+I recommend using Amidon FT82-43 Cores for 1:49 UnUns. For 1:1 and 1:4 Balun also "Würth 74270118" (or similar sized NiZn) toroid’s will work.
+Measurements have shown that the best winding radio for 1:49 UnUns on the small FT82-43 core is 3-to-21. 
 
-Measurements have shown, that the best winding radio for 1:49 UnUns on the small FT82-43 core is 3-to-21. 
+The new revision (1.1) has a combined footprint for BNC and SMA connectors, so only one version of the PCB is needed (thanks to DL2MAN for the idea).
+For BNC connection you can use the Part: Amphenol B6252H7 / Telegärtner J01001A0038 (or similar) <br>
+For SMA connection pls use a straight edge mount SMA connector (found some cheap sources at amazon, e.g. : https://tinyurl.com/yjde2jam)
 
-After a request from an OM, I also did a version using a BNC connector. (Amphenol B6252H7, Telegärtner J01001A0038 or similar)
+I add two new PADs in revision 1.1 to solder 4mm ("Bana Connector") sockets directly to the PCB. I used this parts: https://www.amazon.de/gp/product/B07VYSN74H/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&th=1 
 
-For German/EU-Based Hams, I can recommend https://aisler.net/ for PCB manufacturing. You can upload the Kicad file and order the PCBs.
-Please select the Surface Finish: "ENIG"  for best results (Perfect Gold / Nickel surface finish with excellent planarity).
+For German or EU-based OM's, I can recommend https://aisler.net/ for PCB manufacturing. You can upload the Kicad file and order the PCBs.<br>
+I also have some good experience with http://JLCPCB.com from China. You can upload the Gerber Files (as Zip-File) directly to their homepage. delivery time to Germany is ~10 to 14 days.
