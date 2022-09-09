@@ -24,3 +24,4 @@ I add two new PADs in revision 1.1 to solder 4mm ("Bana Connector") sockets dire
 
 For German or EU-based OM's, I can recommend https://aisler.net/ for PCB manufacturing. You can upload the Kicad file and order the PCBs.<br>
 I also have some good experience with http://JLCPCB.com from China. You can upload the Gerber Files (as Zip-File) directly to their homepage. delivery time to Germany is ~10 to 14 days.
+Manuel (DL2MAN) did a short How-To-Order here on Youtube: https://www.youtube.com/watch?v=1b3oLp7s9gk&t=5s
