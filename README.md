@@ -14,8 +14,9 @@ Depending on the winding of the toroid, you can use the PCB to create a 1:1 or 1
 
 ![alt text](https://github.com/DG1JAN/UniBalun/blob/main/variants.png)
 
-I recommend using Amidon FT82-43 Cores for 1:49 UnUns. For 1:1 and 1:4 Balun also "Würth 74270118" (or similar sized NiZn) toroid’s will work.
-Measurements have shown that the best winding radio for 1:49 UnUns on the small FT82-43 core is 3-to-21. 
+I recommend using "Amidon FT82-43" Cores or the "Würth 74270118" core. The Würth core is a bit better on the higer Bands, but should not be used below ~6MHz.
+
+Measurements have shown that the best winding radio for 1:49 UnUns on the small FT82-43 sized core is 3-to-21. 
 
 The new revision (1.1) has a combined footprint for BNC and SMA connectors, so only one version of the PCB is needed (thanks to DL2MAN for the idea).
 For BNC connection you can use the Part: Amphenol B6252H7 / Telegärtner J01001A0038 (or similar) <br>
