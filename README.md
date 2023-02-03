@@ -1,5 +1,5 @@
 # UniBalun
-a PCB for a lightweight qrp (maximum 10W SSB / 5W FT8) Balun (1:1, 1:4 or UnUn 1:49) 
+a PCB for a lightweight qrp (maximum 10W SSB / 5W FT8)  1:49 UnUn (also 1:9,1:64,... possible) or Balun (1:1, 1:4)
 
 Update to Rev. 1.2 with some minor changes (bigger Pads for the Capaciator and updated labeling)
 
