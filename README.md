@@ -3,6 +3,8 @@ a PCB for a lightweight qrp (maximum 10W SSB / 5W FT8)  1:49 UnUn (also 1:9,1:64
 
 Update to Rev. 1.2 with some minor changes (bigger Pads for the Capaciator and updated labeling)
 
+German speaking Hams will now find a new PDF with build instructions (Bauanleitung) in the repo: https://github.com/DG1JAN/UniBalun/blob/main/Bauanleitung_UniBalun.pdf
+
 ![alt text](https://github.com/DG1JAN/UniBalun/blob/main/Uni_Balun/UniBalun1.2_3D_Pic1.png)
 
 
