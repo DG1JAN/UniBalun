@@ -21,7 +21,7 @@ Depending on the winding of the toroid, you can use the PCB to create a 1:1 or 1
 
 ![alt text](https://github.com/DG1JAN/UniBalun/blob/main/variants.png)
 
-I recommend using "Amidon FT82-43" or "Fair-Rite 5943001001" (100% identical to the Amidon) Cores or the "Würth 74270118" core. The Würth core is a bit better on higer Bands, but should not be used below ~6MHz.
+I recommend using "Amidon FT82-43" or "Fair-Rite 5943000601" (100% identical to the Amidon) Cores or the "Würth 74270118" core. The Würth core is a bit better on higer Bands, but should not be used below ~6MHz.
 
 Measurements have shown that the best winding radio for 1:49 UnUns on the small FT82-43 sized core is 3-to-21. 
 
