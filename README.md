@@ -19,6 +19,8 @@ Depending on the winding of the toroid, you can use the PCB to create a 1:1 or 1
 
 1:49 Unun: solder a wire-jumper between Pad 1 and 4 on the backside of the PCB (gives better isolation). Solder the capaciator to C1
 
+1:9 Unun: solder a wire-jumper between Pad 1 and 4 on the backside of the PCB (gives better isolation). Solder a Wire on the backside of the PCB between the a' Pad and the GND of the BNC-Plug.
+
 ![alt text](https://github.com/DG1JAN/UniBalun/blob/main/variants.png)
 
 I recommend using "Amidon FT82-43" or "Fair-Rite 5943000601" (100% identical to the Amidon) Cores or the "Würth 74270118" core. The Würth core is a bit better on higer Bands, but should not be used below ~6MHz.
