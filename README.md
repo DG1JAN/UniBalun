@@ -5,9 +5,6 @@ Update to Rev. 1.2 with some minor changes (bigger Pads for the Capaciator and u
 
 German speaking Hams will now find a new PDF with build instructions (Bauanleitung) in the repo: https://github.com/DG1JAN/UniBalun/blob/main/Bauanleitung_UniBalun.pdf
 
-![alt text](https://github.com/DG1JAN/UniBalun/blob/main/Uni_Balun/UniBalun1.2_3D_Pic1.png)
-
-
 ![alt text](https://github.com/DG1JAN/UniBalun/blob/main/rev1_1.jpg)
 
 
@@ -41,6 +38,14 @@ Manuel (DL2MAN) did a short How-To-Order here on Youtube: https://www.youtube.co
 Pictures from a  1:49 UnUn build:
 ![alt text](https://github.com/DG1JAN/UniBalun/blob/main/UniBalun_1_1_UnUn_example.jpg)
 
-
 Pictures from a  1:9 UnUn build:
 ![alt text](https://github.com/DG1JAN/UniBalun/blob/main/UniBalun_1to9_example.jpg)
+
+
+Here are some YouTube Videos related to the Project:
+
+https://youtu.be/JOxsU2A5xWw?si=09692yh69wdoD_nu
+
+https://youtu.be/WJNUpXuDDTQ?si=r2ZIQGWQCxN_N85m
+
+https://youtu.be/oUK1LmV6amc?si=wLx39TDfT2uAble6
