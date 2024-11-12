@@ -22,6 +22,8 @@ Depending on the winding of the toroid, you can use the PCB to create a 1:1 or 1
 
 I recommend using "Amidon FT82-43" or "Fair-Rite 5943000601" (100% identical to the Amidon) Cores or the "Würth 74270118" core. The Würth core is a bit better on higer Bands, but should not be used below ~6MHz.
 
+PRO-TIP: For lowest losses, use a FT82-43 with a FT50-43 placed inside the FT82. (they fit nicely together) A Fair-Rite 5943000601 & 5943001101 have even a better match!
+
 Measurements have shown that the best winding radio for 1:49 UnUns on the small FT82-43 sized core is 3-to-21. 
 
 The new revision (>1.1) has a combined footprint for BNC and SMA connectors, so only one version of the PCB is needed (thanks to DL2MAN for the idea).
